@@ -1,0 +1,22 @@
+/* You'll probably want to add some styles here */
+#map {
+	height:800px;
+}
+
+#title{
+	font-size: 3em;
+	text-align: center;
+	font-weight: bold;
+}
+
+th {
+	text-align: center;
+}
+td {
+	text-align: center;
+}
+
+.para {
+	text-align:center;
+
+}
